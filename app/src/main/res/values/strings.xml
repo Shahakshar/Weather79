@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather79</string>
+    <string name="about_app">Weather79 App v.0.1</string>
+    <string name="api_used">Weather Api provided by openweathermap.org</string>
+</resources>
